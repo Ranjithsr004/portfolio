@@ -15,7 +15,7 @@
     --bg-color: #1f242d;
     --second-bg-color: #323946;
     --text-color: #fff;
-    --main-color: #0ef;
+    --main-color: rgb(110, 111, 219);
 }
 
 html {
@@ -134,7 +134,7 @@ span {
     border-radius: 4rem;
     box-shadow: 0 0 1rem var(--main-color);
     font-size: 1.6rem;
-    color: var(--second-bg-color);
+    color: white;
     letter-spacing: .1rem;
     font-weight: 600;
     transition: .5s ease;
@@ -253,7 +253,7 @@ span {
 .portfolio-layer p {
     font-size: 1.6rem;
     margin: .3rem 0 1rem;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .portfolio-layer a {
     display: inline-flex;
